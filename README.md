@@ -8,10 +8,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/mauriciocastelobranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mauriciocastelobranco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maurício-castelo-branco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maurício-castelo-branco" height="30" width="40" /></a>
-<a href="https://instagram.com/mauricioricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauricioricci" height="30" width="40" /></a>
-<a href="https://discord.gg/mauricioricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mauricioricci" height="30" width="40" /></a>
+<a href="https://github.com/mauriciocastelobranco" target="blank" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/maurício-castelo-branco" target="blank" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/mauricioricci" target="blank" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://discord.gg/mauricioricci" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
